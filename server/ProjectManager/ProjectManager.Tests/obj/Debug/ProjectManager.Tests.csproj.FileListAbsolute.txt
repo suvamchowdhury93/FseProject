@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\GitHubProject\FseProject\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GitHubProject\FseProject\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csproj.CoreCompileInputs.cache
